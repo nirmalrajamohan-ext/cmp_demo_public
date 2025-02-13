@@ -1,1 +1,1 @@
-# cmp_demo_public
+# cmp_demo
